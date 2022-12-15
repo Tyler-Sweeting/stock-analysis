@@ -5,9 +5,10 @@ The purpose of this analysis is to create a code that will help our client Steve
 
 
 ## Results
+As you can see in the image below, the refactored code now runs a lot faster thatn the previous code which would take near 1.5 seconds to run. 2017 seems to have been a much better year for the stocks provided, with some of them returning over %100 in profits.
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118485409/207927645-9f684e10-742d-4ba5-b23a-c0b03452b6a0.png)
 
-
+Similar to the 2017 dataset, the 2018 analysis also runs much faster than the orginal unrefactored code. 2018 was not as strong of a year for the stocks provided, with tickers ENPH and RUN being the only stocks that returned a profit.
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/118485409/207927666-d33bd981-9b34-4526-9525-647d888ed1af.png)
 
 
